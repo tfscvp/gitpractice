@@ -5,5 +5,7 @@ date: "08/12/2017"
 output: html_document
 ---
 
-## My first readme   
-Remember READEME 
+# Welcome  
+This my first github repo linked to ol' rstudio.  
+
+I love playing around with that stuff
