@@ -9,3 +9,10 @@ output: html_document
 This my first github repo linked to ol' rstudio.  
 
 I love playing around with that stuff
+
+## SOOOO wonderful
+
+```{r}
+plot(cars)
+```
+
